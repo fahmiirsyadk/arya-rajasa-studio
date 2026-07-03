@@ -1,0 +1,6 @@
+{
+  "name": "Arya Rajasa Studio",
+  "description": "Minimalist personal portfolio website",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
