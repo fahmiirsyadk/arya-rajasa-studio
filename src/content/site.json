@@ -5,28 +5,65 @@
     "email": "rajasa2816@gmail.com",
     "copyright": "©2026 ARS . all rights reserved",
     "socials": [
-      { "label": "behance", "url": "https://www.behance.net/aryarajasa" },
-      { "label": "linkedin", "url": "https://www.linkedin.com/in/aryarajasa/" },
-      { "label": "instagram", "url": "https://www.instagram.com/by.aryarajasa/" }
+      {
+        "label": "behance",
+        "url": "https://www.behance.net/aryarajasa"
+      },
+      {
+        "label": "linkedin",
+        "url": "https://www.linkedin.com/in/aryarajasa/"
+      },
+      {
+        "label": "instagram",
+        "url": "https://www.instagram.com/by.aryarajasa/"
+      }
     ]
   },
   "home": {
     "intro": "I design unforgettable brand & visual identities for your business — so you stand out in a crowded market."
   },
   "projects": [
-    { "name": "aura botanical", "details": "( brand design/ packaging )", "image": "https://images.unsplash.com/photo-1556760544-74068565f05c?auto=format&fit=crop&q=80&w=800" },
-    { "name": "voyage coffee", "details": "( brand design/ art direction )", "image": "https://images.unsplash.com/photo-1586717791821-3f44a563fa4c?auto=format&fit=crop&q=80&w=800" },
-    { "name": "neu studio", "details": "( motion design/ web )", "image": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?auto=format&fit=crop&q=80&w=800" },
-    { "name": "verve active", "details": "( brand design/ apparel )", "image": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?auto=format&fit=crop&q=80&w=800" },
-    { "name": "lumina", "details": "( web design/ art direction )", "image": "https://images.unsplash.com/photo-1634942537034-2531766767d1?auto=format&fit=crop&q=80&w=800" },
-    { "name": "minimal spaces", "details": "( brand design/ editorial )", "image": "https://images.unsplash.com/photo-1541462608143-67571c6738dd?auto=format&fit=crop&q=80&w=800" }
+    {
+      "name": "aura botanical",
+      "details": "( brand design/ packaging )",
+      "image": "/images/e2824074967786b7ca1d1699bcf70826-1783134491063.webp"
+    },
+    {
+      "name": "voyage coffee",
+      "details": "( brand design/ art direction )",
+      "image": "https://images.unsplash.com/photo-1586717791821-3f44a563fa4c?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+      "name": "neu studio",
+      "details": "( motion design/ web )",
+      "image": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+      "name": "verve active",
+      "details": "( brand design/ apparel )",
+      "image": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+      "name": "lumina",
+      "details": "( web design/ art direction )",
+      "image": "https://images.unsplash.com/photo-1634942537034-2531766767d1?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+      "name": "minimal spaces",
+      "details": "( brand design/ editorial )",
+      "image": "https://images.unsplash.com/photo-1541462608143-67571c6738dd?auto=format&fit=crop&q=80&w=800"
+    }
   ],
   "caseStudy": {
     "intro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quam purus, tristique quis lacus at.",
     "label": "case study",
     "meta": {
       "company": "Client one",
-      "services": ["branding", "social media", "website design"],
+      "services": [
+        "branding",
+        "social media",
+        "website design"
+      ],
       "industry": "wellness",
       "year": "2025"
     },
@@ -74,7 +111,12 @@
       "I'm always curious and love what I do."
     ],
     "servicesLabel": "services",
-    "services": ["brand identity", "graphic design", "motion design", "social media design"]
+    "services": [
+      "brand identity",
+      "graphic design",
+      "motion design",
+      "social media design"
+    ]
   },
   "playbook": {
     "label": "(ARS Playbook)",
